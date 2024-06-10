@@ -8,7 +8,7 @@ header {
     background-image: url('header-bg.jpg'); /* Add your header background image path here */
     background-size: cover;
     background-position: center;
-    color: black;
+    color: white;
     padding: 40px 20px;
     text-align: center;
 }
@@ -40,6 +40,33 @@ main {
 
 .project-category h2 {
     margin-top: 0;
+}
+
+.inquire-section {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.inquire-section p {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.inquire-section button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.inquire-section button:hover {
+    background-color: #0056b3;
 }
 
 footer {

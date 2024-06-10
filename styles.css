@@ -8,7 +8,7 @@ header {
     background-image: url('header-bg.jpg'); /* Add your header background image path here */
     background-size: cover;
     background-position: center;
-    color: white;
+    color: black;
     padding: 40px 20px;
     text-align: center;
 }
